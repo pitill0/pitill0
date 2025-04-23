@@ -1,4 +1,4 @@
-![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=tokyonight)
+![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=nord)
 
 <!--
 ## Hi there 👋
