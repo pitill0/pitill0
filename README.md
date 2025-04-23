@@ -1,6 +1,8 @@
-## Hi there 👋
+![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=tokyonight)
 
 <!--
+## Hi there 👋
+
 **pitill0/pitill0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
