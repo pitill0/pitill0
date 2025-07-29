@@ -1,5 +1,7 @@
 ![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=nord)
 
+
+[![pitill0's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=pitill0&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 ## Hi there 👋
 
