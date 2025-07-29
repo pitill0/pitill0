@@ -1,6 +1,6 @@
-[![pitill0's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=pitill0&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitill0)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=nord)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pitill0&theme=dark)](https://git.io/streak-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitill0)](https://github.com/anuraghazra/github-readme-stats)
+ ![pitill0's GitHub stats](https://github-readme-stats.vercel.app/api?username=pitill0&show_icons=true&theme=nord)
 [![pitill0](http://github-readme-streak-stats.herokuapp.com?user=pitill0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Hi there 👋
